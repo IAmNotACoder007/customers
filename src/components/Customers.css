@@ -1,0 +1,6 @@
+.cutomers-wrapper {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fill, 250px);
+  padding: 10px;
+}
